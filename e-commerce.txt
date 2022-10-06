@@ -1,0 +1,21 @@
+E-commerce:
+1. A Website to sell Mobile Phones and accessories.
+   User can compare different products and buy based on his requirements.
+   Website will provide user with images and features of the product.    
+ 
+2. Must have Features:
+   a. User registration and authentication system.
+   b. Responsive website.
+   c. A user should be able to find a product through a search Bar.
+   d. A user should be able to add a product to cart.
+   e. Payment gateway.
+
+3. Good to have Features:
+   a. Filters based on Price and features of product.
+   b. Bookmark a product for price drop in future.
+   c. Recommending similar kind of products to user based on search history.
+   d. Comparison of products based on ratings by user, price and features.
+
+4. Tech Stack:
+   a. HTML+Javascript+CSS
+   b. MySql
