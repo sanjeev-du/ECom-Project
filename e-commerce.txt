@@ -1,4 +1,7 @@
 E-commerce:
+
+   Date : 06-10-2022
+   
 1. A Website to sell Mobile Phones and accessories.
    User can compare different products and buy based on his requirements.
    Website will provide user with images and features of the product.    
@@ -19,3 +22,32 @@ E-commerce:
 4. Tech Stack:
    a. HTML+Javascript+CSS
    b. MySql
+   
+   Date: 14-10-2022
+
+Entities:
+
+1. Customer:
+     -> Customer_id (required)
+     -> Customer_name (required)
+     -> Customer_address (required)
+     -> Customer_contact_no (required)
+     -> Customer_email_address (optional)
+
+2. Product:
+     -> Product_id (required)
+     -> Product_name (required)
+     -> Product_description (required)
+     -> Product_image (required)
+     -> Product_price (required)
+
+3. User_Authentication:
+     -> User_id (required)
+     -> User_name (required)
+     -> Password (required)
+
+Relationships:
+
+1. Transaction
+2. Order
+3. Add_to_cart   
